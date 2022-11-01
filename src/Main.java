@@ -21,6 +21,7 @@ public class Main {
         for (int i = 0; i < employee.length; i++) {
             System.out.println(employee[i]);
         }
+        System.out.println("курсовая");
         System.out.println("Сумма трат за месяц составила: " + sumSalary() + " рублей");
         System.out.println("Сотрудник с максимальной з/п: " + maxSalary());
         System.out.println("Сотрудник с минимальной з/п: " + minSalary());

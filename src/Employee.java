@@ -51,8 +51,4 @@ public class Employee {
                 ", отдел: " + department +
                 ", id: " + id;
     }
-
-//    public String toString1() {
-//        return "ФИО: " + fullName + ".";
-//    }
 }
